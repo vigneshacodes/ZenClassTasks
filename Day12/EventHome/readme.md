@@ -2,4 +2,4 @@ Website Link
 
 https://vigneshacodes.github.io/ZenClassTasks/Day12/EventHome
 
-![EventHomeDemo](https://github.com/vigneshacodes/ZenClassTasks/assets/134355192/deebce98-c074-401d-9982-99d5507a24f3)
+![Capture](https://github.com/vigneshacodes/ZenClassTasks/assets/134355192/9ed5fb44-670e-4219-acee-7a81f2f51a38)
