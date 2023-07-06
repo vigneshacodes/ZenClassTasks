@@ -1,5 +1,5 @@
 Website Link
 
-https://vigneshacodes.github.io/ZenActivityTasks/Day15/Pagination/
+https://vigneshacodes.github.io/ZenClassTasks/Day15/Pagination/
 
-![PaginationDemo](https://github.com/vigneshacodes/ZenActivityTasks/assets/134355192/cd976a2a-68ac-4b6a-a22f-656dbdcadab2)
+![Capture](https://github.com/vigneshacodes/ZenClassTasks/assets/134355192/de5c85d2-28d2-45cc-a3aa-b00d5183b4d9)
