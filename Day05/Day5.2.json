@@ -1,0 +1,69 @@
+//Create Your Own Resume data on JSON Format
+
+
+
+{
+    "name": "Vignesh Shankar",
+    "location": "Chennai, Tamilnadu",
+    "email": "vigneshacodes@gmail.com",
+    "Experience Details": [
+      {
+        "Company": "Sutherland Global Services",
+        "Designation": "Associate CS Internet",
+        "Duration": "6 Months"
+      },
+     
+    ],
+    "Education Details ": [
+      {
+        "Qualification": "BE",
+        "Department": "Computer Science",
+        "Percentage": "65%",
+        "Institution": "Dhaanish Ahmed College of Engineering",
+        "Year of Completion": "2019"
+      },
+      {
+        "Qualification": "HSC",
+        "Department": "Computer Science",
+        "Percentage": "74%",
+        "Institution": "St.Joseph's Higher Secondary School",
+        "Year of Completion": "2015"
+      },
+      {
+        "Qualification": "SSLC",
+        "Percentage": "89%",
+        "Institution": "St.John's Matriculation School",
+        "Year of Completion": "2013"
+      }
+    ],
+    "Certifications": [
+      {
+        "Course": "The Fundamentals of Digital Marketing",
+        "Obtained From": "Google Digital Garage"
+      },
+      {
+        "Course": "Become Digital Marketing Specialist",
+        "Obtained From": "Linkedin Learning"
+      },
+      {
+        "Course": "Learning SQL programming",
+        "Obtained From": "Linkedin Learning"
+      },
+      {
+        "Course": "Google Ads Display & Search Certification",
+        "Obtained From": "Google Digital Garage"
+      }
+    ],
+    "Technical Skills": {
+      "Skills": [
+        "Frontend Programming",
+        "Digital Marketing",
+        "Email Marketing",
+        "SEO",
+        "SMM",
+        "Campaign Management"
+      ],
+      "Programming Languages": ["Javascript", "HTML", "SQL", "Bascis in C, C++"]
+    },
+    "Declaration": "I hereby declare that above mentioned information is correct and best to my knowledge."
+  }

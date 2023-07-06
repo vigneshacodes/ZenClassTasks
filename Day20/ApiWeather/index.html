@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Weather Task by Vignesh</title>
+	<style type="text/css">
+		h1{
+			border: 2px solid;
+			text-align: center;
+			background-color: #0563bb;
+			color: white;
+			padding-top: 5%; 
+			padding-bottom: 5%; 
+		}
+		#city,#country{
+			width:15%;
+			border: 2px solid black;
+			padding: 10px;
+		}
+		div{
+			display: block;
+		}
+		div label{
+			display: block;
+		}
+		label,.note{
+			display: inline-block;
+		}
+	</style>
+	<script type="text/javascript" src='weatherApi.js'></script>
+</head>
+<body >
+	<div>
+		<h1> Weather API Testing</h1>
+	</div>
+	<div>
+			<div align="center">
+				<input type="text" id="city" placeholder="Enter City name">
+				<p class='note' style="color: black">Note : First letter should be in uppercase</p>
+			</div>
+			<br />
+			<div align="center">
+				<input type="text" id="country" placeholder="Enter Country name">
+				<p class='note' style="color: black">Note : First letter should be in uppercase</p>
+			</div>
+			<div>
+				<label align="center"><p><b>WEATHER :</b></p></label>
+				<h3 align="center" id="weather"></h3>
+			</div>
+			<div align="center">
+				<br>
+				<button onclick="search()">Search</button>
+			</div>
+	</div>
+</body>
+</html>
