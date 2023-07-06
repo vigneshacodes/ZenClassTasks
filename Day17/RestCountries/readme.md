@@ -1,5 +1,7 @@
 Website Link
 
-https://vigneshacodes.github.io/ZenActivityTasks/Day17/RestCountries/
+https://vigneshacodes.github.io/ZenClassTasks/Day17/RestCountries/
 
-![RestCountriesDemo](https://github.com/vigneshacodes/ZenActivityTasks/assets/134355192/e5ea5776-02c3-4daa-854d-b3c3ec606c9f)
+![Capture](https://github.com/vigneshacodes/ZenClassTasks/assets/134355192/2caf4462-f905-4fde-959a-516a7041ac14)
+
+![Capture 1](https://github.com/vigneshacodes/ZenClassTasks/assets/134355192/b2df6bf7-0d91-4d38-95f6-7b96080f87a0)
