@@ -1,5 +1,7 @@
 Website link
 
-https://vigneshacodes.github.io/ZenActivityTasks/Day20/ApiWeather/
+https://vigneshacodes.github.io/ZenClassTasks/Day20/ApiWeather/
 
-![WeatherDemo](https://github.com/vigneshacodes/ZenActivityTasks/assets/134355192/c1aba822-2554-4263-9934-30540b684bb6)
+![Capture](https://github.com/vigneshacodes/ZenClassTasks/assets/134355192/3c6f68d4-8ae4-40d5-95c6-c5acdff276c0)
+
+![Capture 1](https://github.com/vigneshacodes/ZenClassTasks/assets/134355192/bedecafe-d58a-45f7-b1ac-b928639da2a7)
