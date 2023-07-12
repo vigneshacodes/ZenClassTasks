@@ -1,6 +1,6 @@
 Crud Axios Task App
 
-Website Link : https://vscrud-axios.netlify.app/
+Website Link : https://vscrud-axios.netlify.app
 
 ![Capture](https://github.com/vigneshacodes/crud-axios/assets/134355192/4efe3f13-f26e-4901-9802-78074a1ddf3c)
 
